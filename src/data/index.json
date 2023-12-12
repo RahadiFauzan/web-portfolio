@@ -2,7 +2,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./web-portfolio/img/placeholder-image.png",
+      "src": "./img/placeholder-image.png",
       "title": "JH Furniture",
       "description": "A project from Web Programming class using Laravel. The project is about furniture market.",
       "ref": "View Documentation",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "src": "./web-portfolio/img/placeholder-image-1.png",
+      "src": "./img/placeholder-image-1.png",
       "title": "Fillsgood CMS",
       "description": "My final thesis project, making a content management system website for Fillsgood Coffee Shop.",
       "ref": "View Documentation",
